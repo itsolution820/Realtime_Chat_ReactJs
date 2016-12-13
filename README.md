@@ -4,12 +4,8 @@ First, grab the dependencies:
 
     npm install
     
-Build the applicaiton
-
-    npm run build
-    
 Then run the app like so:
 
-    npm start
+    node app.js
     
-And navigate to `localhost:3000` and chat !
+And navigate to `localhost:8080` and chat !
